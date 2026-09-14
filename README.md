@@ -3,13 +3,13 @@
 ## Descrição
 Um programa desenvolvido para estimar o consumo mensal de energia elétrica de aparelhos e calcular seu custo aproximado com base nas informações fornecidas pelo usuário.
 
-## Instalação
+## Linguagem Utilizada
+![Python](https://img.shields.io/badge/Python-orange?logo=python)
+
+## Como executar
 1. Ter Python instalado.
 2. Abrir o projeto.
 3. Executar o app.py.
-
-## Linguagem Utilizada
-![Python](https://img.shields.io/badge/Python-orange?logo=python)
 
 ## Fórmula Utilizada
 Consumo mensal = (potência × horas por dia × 30) / 1000
