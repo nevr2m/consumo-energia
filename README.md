@@ -1,7 +1,7 @@
 # Calculadora de Consumo de Energia 
 
 ## Descrição
-Um programa desenvolvido para estimar o consumo mensal de energia elétrica de aparelhos e calcular seu custo aproximado com base nas informações fornecidas pelo usuário.
+Um programa desenvolvido para estimar o consumo mensal de energia elétrica de aparelhos e calcular seu custo aproximado com base nas informações fornecidas pelo usuário
 
 ## Linguagem Utilizada
 ![Python](https://img.shields.io/badge/Python-orange?logo=python)
