@@ -12,10 +12,11 @@ Um programa desenvolvido para estimar o consumo mensal de energia elétrica de a
 3. Executar o app.py.
 
 ## Fórmula Utilizada
-- Consumo mensal = (potência × horas por dia × 30) / 1000
-- potência → watts do aparelho
-- horas por dia → tempo médio de utilização
-- 30 → quantidade de dias considerada no mês
-- 1000 → conversão de Wh para kWh
+**Consumo mensal (kWh) = (Potência × Horas por dia × 30) ÷ 1000**
+
+- **Potência** → watts do aparelho
+- **Horas** → uso diário
+- **30** → dias do mês
+- **1000** → conversão para kWh
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
