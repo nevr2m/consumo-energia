@@ -1,4 +1,4 @@
-# ⚡ Calculadora de Consumo de Energia 
+# Calculadora de Consumo de Energia 
 
 ## Descrição
 Um programa desenvolvido para estimar o consumo mensal de energia elétrica de aparelhos e calcular seu custo aproximado com base nas informações fornecidas pelo usuário.
